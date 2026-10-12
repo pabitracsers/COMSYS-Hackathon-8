@@ -15,7 +15,7 @@ here, then follow the links below in order.
 | 2 | [`entity_schema.md`](./entity_schema.md) | The 10 entity categories, tagging scheme, file format, and edge-case rulings. |
 | 3 | [`annotation_guidelines.pdf`](./annotation_guidelines.pdf) | How to apply the schema consistently — workflow, common mistakes, code-mixed text handling, self-review checklist. |
 | 4 | [`worked_example/`](./worked_example) | A real note, correctly annotated end to end, validated with zero errors. Use it as your reference for exactly what a correct submission looks like. |
-| 5 | [`validate.py`](./validate.py) | Run this on your corpus before every submission. Produces `validation_report.txt`, which is a mandatory part of your Round 1 and Round 3 zip. |
+| 5 | [`validate.py`](./validate.py) | Run this on your corpus before every submission. Produces `validation_report.txt`, which is a mandatory part of your Round 1 and Round 2 zip. |
 
 ---
 
