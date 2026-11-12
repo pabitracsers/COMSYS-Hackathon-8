@@ -18,7 +18,7 @@ Both files are UTF-8 (with a BOM):
 
 ```python
 import pandas as pd
-notes   = pd.read_csv("medbhasha_bengali_clinical_notes_test_data_.csv", encoding="utf-8-sig")
+notes   = pd.read_csv("medbhasha_bengali_clinical_notes(test_data).csv", encoding="utf-8-sig")
 queries = pd.read_csv("test_queries_bn.csv", encoding="utf-8-sig")
 ```
 
@@ -119,7 +119,7 @@ correct answer, and it scores better than a made-up one.
 
 ## What to submit
 
-By **[DEADLINE, IST]**, submit one zip file named `TeamName_MedBhasha.zip` containing your repository:
+submit one zip file named `TeamName_MedBhasha.zip` containing your repository:
 
 ```
 TeamName_MedBhasha/
