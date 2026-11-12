@@ -9,7 +9,7 @@ Format: `[version] — date — what changed — who it affects`
 
 ---
  
-## [1.3] — November 12, 2026
+## [1.2] — November 12, 2026
 **Round 2 README released.**
 - `README.md` now includes the full Round 2 instructions: the three outputs
   (NER spans, clusters and analysis, RAG answers), scoring, and the submission
@@ -21,7 +21,7 @@ Format: `[version] — date — what changed — who it affects`
  
 ---
  
-## [1.2] — November 10, 2026
+## [1.1] — November 10, 2026
 **Round 2 release.**
 - Added `round2_release/` with the test notes
   (`medbhasha_bengali_clinical_notes(test_data).csv`, unlabeled) and the Bengali
