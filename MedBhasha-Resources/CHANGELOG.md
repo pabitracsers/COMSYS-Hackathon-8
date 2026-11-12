@@ -47,7 +47,7 @@ guidelines and validator are unchanged.
   errors
 - `validate.py` — format validator (BIO/BIOES, column structure, tag
   vocabulary, sequence validity)
-- `consent_form.pdf`: the mandatory bilingual consent form for any
+- `consent_form.pdf` — the mandatory bilingual consent form for any
   information collected directly from a patient.
 
 **Affects:** all teams, from the start of Round 1.
