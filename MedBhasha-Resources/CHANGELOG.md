@@ -8,8 +8,33 @@ your already-tagged notes.
 Format: `[version] — date — what changed — who it affects`
 
 ---
+ 
+## [1.3] — November 12, 2026
+**Round 2 README released.**
+- `README.md` now includes the full Round 2 instructions: the three outputs
+  (NER spans, clusters and analysis, RAG answers), scoring, and the submission
+  contents.
+- These repeat the instructions sent by email on Nov 10, 2026. No new requirements
+  or format changes.
+**Affects:** all teams. No action needed if you already followed the Nov 10 email.
+ 
+---
+ 
+## [1.2] — November 10, 2026
+**Round 2 release.**
+- Added `round2_release/` with the test notes
+  (`medbhasha_bengali_clinical_notes(test_data).csv`, unlabeled) and the Bengali
+  test queries (`test_queries_bn.csv`).
+- The Round 2 instructions (NER spans, clusters and analysis, RAG answers, and the
+  submission zip, which also includes `raw_data.csv`, your own sourced data) were
+  sent to all teams by email on this date.
 
-## [1.0] — [October 12, 2026]
+**Affects:** all teams, from the start of Round 2. The entity schema, annotation
+guidelines and validator are unchanged.
+
+---
+
+## [1.0] — October 12, 2026
 **Initial release.** Covers:
 - `entity_schema.md` v1.0 — 10 entity categories, BIO/BIOES tagging scheme,
   file format specification, edge-case rulings
@@ -21,6 +46,8 @@ Format: `[version] — date — what changed — who it affects`
   errors
 - `validate.py` — format validator (BIO/BIOES, column structure, tag
   vocabulary, sequence validity)
+- `consent_form.pdf`: the mandatory bilingual consent form for any
+  information collected directly from a patient.
 
 **Affects:** all teams, from the start of Round 1.
 
