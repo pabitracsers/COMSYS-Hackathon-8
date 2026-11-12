@@ -9,7 +9,7 @@ The test notes and test queries for **Round 2: Modeling — NER, Clustering & RA
 
 | File | What it is |
 |---|---|
-| `medbhasha_bengali_clinical_notes_test_data_.csv` | The test notes. Columns: `note_id`, `note_text`. Unlabeled. |
+| `medbhasha_bengali_clinical_notes(test_data).csv` | The test notes. Columns: `note_id`, `note_text`. Unlabeled. |
 | `test_queries_bn.csv` | The Bengali test queries. Columns: `query_id`, `query_text`. |
 
 ## Load the files correctly
