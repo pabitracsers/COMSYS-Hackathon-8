@@ -27,8 +27,9 @@ Format: `[version] — date — what changed — who it affects`
   (`medbhasha_bengali_clinical_notes(test_data).csv`, unlabeled) and the Bengali
   test queries (`test_queries_bn.csv`).
 - The Round 2 instructions (NER spans, clusters and analysis, RAG answers, and the
-  submission zip, which also includes `raw_data.csv`, your own sourced data) were
-  sent to all teams by email on this date.
+  submission zip) were sent to all teams by email on this date.
+- The submission zip must also contain `raw_data.csv` (your own sourced data,
+  before annotation).
 
 **Affects:** all teams, from the start of Round 2. The entity schema, annotation
 guidelines and validator are unchanged.
