@@ -16,6 +16,7 @@ Format: `[version] — date — what changed — who it affects`
   contents.
 - These repeat the instructions sent by email on Nov 10, 2026. No new requirements
   or format changes.
+  
 **Affects:** all teams. No action needed if you already followed the Nov 10 email.
  
 ---
