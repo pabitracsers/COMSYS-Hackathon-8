@@ -73,9 +73,9 @@ competition communication channel and log them in
 
 | Round | Dates | Relevant resources |
 |---|---|---|
-| Round 1 — Onboarding & Annotation | Oct 12 – Oct 22, 2026 | All files in this repository |
-| Round 2 — Modeling: NER, Clustering & RAG | Oct 24 – Nov 5, 2026 | `entity_schema.md` (same schema used for scoring) |
-| Round 3 — Finale | Nov 6 – Nov 8, 2026 | Submission format references this repository throughout |
+| Round 1 — Onboarding & Annotation | Oct 12 – Nov 5, 2026 | All files in this repository |
+| Round 2 — Modeling: NER, Clustering & RAG | Nov 1 – Nov 12, 2026 | `entity_schema.md` (same schema used for scoring) |
+| Round 3 — Finale | Nov 16 – Nov 17, 2026 | Submission format references this repository throughout |
 
 See the full competition description on Unstop for complete rules, judging
 criteria, and submission instructions.
